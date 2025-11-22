@@ -1,5 +1,5 @@
 # ES234317MiniProject
-Data and Structure Algorithm Project ES234317 Group 3
+Data and Structure Algorithm Project ES234317 Group 3, Class B Team Member
 
-Athilah Syahshiyah Tsabitah 5026241031
-Maritza Dara Athifa 5026241121
+1. Athilah Syahshiyah Tsabitah 5026241031
+2. Maritza Dara Athifa 5026241121
