@@ -1,3 +1,5 @@
+package SnakeandLadderGame;
+
 public class DijkstraLogic {
 
     public interface Visualizer {
